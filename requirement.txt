@@ -1,0 +1,8 @@
+numpy
+torch
+pettingzoo
+gymnasium
+tensorboard
+pygame
+imageio
+imageio-ffmpeg
